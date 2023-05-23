@@ -5,7 +5,7 @@ const app = fastify()
 // GET, POST, PUT, PATCH, DELETE
 
 app.get('/hello', () => {
-  return 'Hello word Node.js'
+  return 'Hello word Node.js App teste'
 })
 
 app
